@@ -14,11 +14,9 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ceft7412&label=Profile%20views&color=0e75b6&style=flat" alt="Ceft7412" /> </p>-->
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="https://linkedin.com/in/cedrick-caceres-22b8612b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<div align="left">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cedrick-caceres-22b8612b4/) 
+</div>
 
 # 💻 Tech Stack:
 <p align="left">
