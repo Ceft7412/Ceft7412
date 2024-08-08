@@ -12,6 +12,7 @@
 
 <img align="right" alt="coding"  width="400px" height="250px" src="./prog.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ceft7412&label=Profile%20views&color=0e75b6&style=flat" alt="Ceft7412" /> </p>-->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cedrick-caceres-22b8612b4/)  
 
