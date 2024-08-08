@@ -35,7 +35,7 @@
 </p>
 
 <h3>📊 GitHub Stats:</h3> 
-<div style="display:flex; align-items:flex-start;">
+<div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni" alt="GitHub Stats">
 </div>
