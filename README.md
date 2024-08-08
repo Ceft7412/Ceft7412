@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cedrick Caceres</h1>
-<h3 align="center">A web developer from University of Mindanao</h3>
+
+<div align="center">
+  <img src ="./CEDIRCK CACERES.png" />
+  
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceft7412&theme=onedark" alt="ceft7412" /></a> </p>
 
