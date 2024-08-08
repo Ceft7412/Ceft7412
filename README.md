@@ -36,7 +36,8 @@
 
 <h3>📊 GitHub Stats:</h3> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni" alt="GitHub Stats">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceft7412&theme=omni&hide_border=false" alt="GitHub Streak Stats">
   <br/>
