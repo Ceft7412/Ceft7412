@@ -35,19 +35,21 @@
 </p>
 
 <h3>📊 GitHub Stats:</h3> 
-<p align="center">
-  
+
+  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni" alt="GitHub Stats">
-  <br/>
+    </p>
+  <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceft7412&theme=omni&hide_border=false" alt="GitHub Streak Stats">
-  <br/>
+  </p>
+    <br/>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ceft7412&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ceft7412&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 </p>
 
 
