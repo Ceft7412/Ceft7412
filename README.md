@@ -37,7 +37,7 @@
 <h3>📊 GitHub Stats:</h3> 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni" height="165px" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceft7412&theme=omni&hide_border=false" alt="GitHub Streak Stats">
 
 
