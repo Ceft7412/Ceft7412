@@ -13,24 +13,41 @@
 <img align="right" alt="coding"  width="400px" height="250px" src="./prog.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ceft7412&label=Profile%20views&color=0e75b6&style=flat" alt="Ceft7412" /> </p>-->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cedrick-caceres-22b8612b4/)  
+<div align="left">
+  <h3>🌐 Socials:</h3>
+  <a href="https://linkedin.com/in/cedrick-caceres-22b8612b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-# 💻 Tech Stack:
-<p align="left">
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<h3>💻 Tech Stack:</h3>
+<p style="text-align: left;">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-# 📊 GitHub Stats:
+<h3>📊 GitHub Stats:</h3> 
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ceft7412&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceft7412&theme=omni&hide_border=false" alt="GitHub Streak Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceft7412&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-## 🏆 GitHub Trophies
+
+<h2>🏆 GitHub Trophies</h2>
 <p align="center">
-![](https://github-profile-trophy.vercel.app/?username=Ceft7412&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=Ceft7412&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
 </p>
+
 
 
